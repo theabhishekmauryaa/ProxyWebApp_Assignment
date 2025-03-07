@@ -39,8 +39,6 @@
 ### **Automation Testing**
 - Create **5 Selenium scripts** for critical flows.
 
-### **Developer Collaboration**
-- Categorize bugs and participate in triage meetings.
 
 ## 6. Test Scenarios
 ### **Customer Portal**
