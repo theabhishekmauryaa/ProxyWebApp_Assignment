@@ -16,8 +16,6 @@
 ## 3. Objectives
 - Ensure core functionalities work as expected.
 - Validate UI consistency across multiple devices.
-- Identify and document high-impact bugs.
-- Improve communication with developers through structured bug reports.
 - Implement basic automation for key user flows.
 
 ## 4. Testing Scope
